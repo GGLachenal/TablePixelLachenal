@@ -10,9 +10,10 @@
 
 ## Composants :
 
-- controleur_table_pix
-- manettes_smartphone
-- maquettes miniatures
+- Controleur_table_pix
+- Manettes_smartphone
+- Maquette processing
+- Maquettes miniatures
     - plans réalisations
 - Hardware
   - Plans réalisation table
