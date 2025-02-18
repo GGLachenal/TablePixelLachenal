@@ -7,6 +7,7 @@
 
 - Demander à être les contributeurs du projet. (All)
 - Installer github Desktop (All)
+- S'inscrire sur un projet (All)
 
 ## Composants :
 
