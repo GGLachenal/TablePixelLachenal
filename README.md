@@ -21,6 +21,8 @@
   - Documents ressources
 - jeux
   - snake
+  - pong
+  - pacman
 - Animations
   - feu
   - matrix
