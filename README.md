@@ -11,20 +11,25 @@
 
 ## Composants :
 
-- Controleur_table_pix
-- Manettes_smartphone
-- Maquette processing
-- Maquettes miniatures
+- Controleur_table_pix (Gence)
+- Manettes_smartphone (Jules, Kaïs, Sasha)
+- Maquette processing (Swann)
+- Maquettes miniatures (Swann)
     - plans réalisations
-- Hardware
+- Hardware (2I2D classe entière)
   - Plans réalisation table
   - Schéma electrique
   - Documents ressources
-- jeux
+- jeux (Alexandre, Yanis, Kylian)
   - snake
   - pong
   - pacman
-- Animations
+- Animations (Gaylor, Folrian, Mathis)
   - feu
   - matrix
-  - horloge 
+  - horloge
+ 
+
+## 21/02/25 Séance 1 : 
+
+- Présentation de l'organisation pour chaques groupes
